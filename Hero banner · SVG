@@ -1,0 +1,85 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#241b4e"/>
+      <stop offset="100%" stop-color="#1a1030"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="55%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ff00e6"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  <rect width="1200" height="300" fill="none" stroke="#3d2e6b" stroke-width="2"/>
+
+  <!-- moon -->
+  <circle cx="1145" cy="48" r="38" fill="url(#moonGlow)"/>
+  <circle cx="1145" cy="48" r="20" fill="#d8d3ff" opacity="0.85"/>
+
+  <!-- top bar -->
+  <text x="24" y="28" font-family="Consolas, monospace" font-size="13" fill="#6b6b95">C:\Users\sayak\README.md</text>
+  <text x="720" y="28" font-family="Consolas, monospace" font-size="12" fill="#6b6b95">&gt; initializing profile.exe</text>
+  <circle cx="900" cy="24" r="5" fill="#ff5f56"/>
+  <circle cx="918" cy="24" r="5" fill="#27c93f"/>
+
+  <!-- skyline -->
+  <g opacity="0.30" fill="#00F5FF">
+    <rect x="0" y="241" width="38" height="59"/>
+    <rect x="45" y="254" width="48" height="46"/>
+    <rect x="97" y="192" width="54" height="108"/>
+    <rect x="155" y="253" width="39" height="47"/>
+    <rect x="202" y="256" width="34" height="44"/>
+    <rect x="240" y="207" width="41" height="93"/>
+    <rect x="285" y="249" width="35" height="51"/>
+    <rect x="328" y="253" width="41" height="47"/>
+    <rect x="379" y="245" width="46" height="55"/>
+    <rect x="430" y="253" width="48" height="47"/>
+    <rect x="486" y="210" width="46" height="90"/>
+    <rect x="536" y="255" width="35" height="45"/>
+  </g>
+  <g opacity="0.30" fill="#B026FF">
+    <rect x="640" y="243" width="55" height="57"/>
+    <rect x="701" y="242" width="41" height="58"/>
+    <rect x="750" y="221" width="31" height="79"/>
+    <rect x="789" y="237" width="54" height="63"/>
+    <rect x="847" y="236" width="46" height="64"/>
+    <rect x="899" y="190" width="31" height="110"/>
+    <rect x="939" y="253" width="30" height="47"/>
+    <rect x="977" y="197" width="34" height="103"/>
+    <rect x="1020" y="206" width="45" height="94"/>
+    <rect x="1075" y="201" width="38" height="99"/>
+    <rect x="1121" y="214" width="42" height="86"/>
+    <rect x="1169" y="237" width="35" height="63"/>
+  </g>
+  <rect x="0" y="298" width="1200" height="2" fill="#4a3b7a"/>
+
+  <!-- vertical side labels -->
+  <text x="26" y="90" font-family="Arial, sans-serif" font-size="22" font-weight="900" fill="#00F5FF" opacity="0.55">S</text>
+  <text x="26" y="118" font-family="Arial, sans-serif" font-size="22" font-weight="900" fill="#00F5FF" opacity="0.55">A</text>
+  <text x="26" y="146" font-family="Arial, sans-serif" font-size="22" font-weight="900" fill="#00F5FF" opacity="0.55">Y</text>
+  <text x="26" y="174" font-family="Arial, sans-serif" font-size="22" font-weight="900" fill="#00F5FF" opacity="0.55">A</text>
+  <text x="26" y="202" font-family="Arial, sans-serif" font-size="22" font-weight="900" fill="#00F5FF" opacity="0.55">K</text>
+
+  <!-- main title -->
+  <text x="600.0" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="66" font-weight="900" letter-spacing="4" fill="url(#titleGrad)" filter="url(#glow)">SAYAK SATPATHI</text>
+  <text x="600.0" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#e7e7f5">AI &amp; ML Enthusiast &#8226; Full-Stack Developer &#8226; DevOps Learner</text>
+  <text x="600.0" y="200" text-anchor="middle" font-family="Consolas, monospace" font-size="16" letter-spacing="1" fill="#c084fc">[ BUILDING INTELLIGENT SOLUTIONS FOR A BETTER FUTURE ]</text>
+
+  <!-- bottom divider glow line -->
+  <rect x="380.0" y="222" width="440" height="2" fill="url(#titleGrad)" opacity="0.8"/>
+</svg>
