@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="assets/hero_banner.svg" width="100%" />
+<img src="hero_banner.svg" width="100%" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=sayaksatpathi&label=VISITORS&color=1a1a2e&style=for-the-badge&labelColor=1a1a2e" height="32"/>
 <img src="https://img.shields.io/github/followers/sayaksatpathi?label=FOLLOWERS&style=for-the-badge&color=B026FF&labelColor=1a1a2e" height="32"/>
 <img src="https://img.shields.io/badge/dynamic/json?color=FFD700&label=STARS&style=for-the-badge&labelColor=1a1a2e&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsayaksatpathi" height="32"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=00F5FF&label=REPOS&style=for-the-badge&labelColor=1a1a2e&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsayaksatpathi" height="32"/>
+<img src="https://img.shields.io/badge/REPOS-45%2B-00F5FF?style=for-the-badge&labelColor=1a1a2e" height="32"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="assets/terminal_card.svg" width="48%" />
-<img src="assets/about_card.svg" width="48%" />
+<img src="terminal_card.svg" width="48%" />
+<img src="about_card.svg" width="48%" />
 </div>
 
 <br/>
