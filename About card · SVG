@@ -1,0 +1,42 @@
+<svg width="600" height="560" viewBox="0 0 600 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B026FF"/>
+      <stop offset="100%" stop-color="#00F5FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="596" height="556" rx="14" fill="#0a0e1a" stroke="url(#borderGrad2)" stroke-width="2" opacity="0.95"/>
+
+  <text x="40" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff">👋 About Me</text>
+
+  <text x="40" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="14.5" fill="#c9d1d9">I'm a passionate CSE (AI &amp; ML) student at SMIT</text><text x="40" y="122" font-family="Segoe UI, Arial, sans-serif" font-size="14.5" fill="#c9d1d9">who loves to build, break, learn, and repeat. I</text><text x="40" y="144" font-family="Segoe UI, Arial, sans-serif" font-size="14.5" fill="#c9d1d9">enjoy turning ideas into real-world solutions</text><text x="40" y="166" font-family="Segoe UI, Arial, sans-serif" font-size="14.5" fill="#c9d1d9">using AI, modern web technologies, and cloud</text><text x="40" y="188" font-family="Segoe UI, Arial, sans-serif" font-size="14.5" fill="#c9d1d9">tools.</text>
+
+  
+    <rect x="40" y="220" width="250" height="92" rx="10" fill="#11162a" stroke="#262c47" stroke-width="1.5"/>
+    <text x="56" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="17">📚</text>
+    <text x="86" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#00F5FF">Education</text>
+    <text x="56" y="278" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">B.Tech CSE (AI &amp; ML), SMIT</text>
+    
+
+    <rect x="310" y="220" width="250" height="92" rx="10" fill="#11162a" stroke="#262c47" stroke-width="1.5"/>
+    <text x="326" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="17">💻</text>
+    <text x="356" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#B026FF">Interests</text>
+    <text x="326" y="278" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">AI/ML, Web Dev, Cloud, OSS</text>
+    
+
+    <rect x="40" y="332" width="250" height="92" rx="10" fill="#11162a" stroke="#262c47" stroke-width="1.5"/>
+    <text x="56" y="364" font-family="Segoe UI, Arial, sans-serif" font-size="17">🌱</text>
+    <text x="86" y="364" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#27c93f">Currently</text>
+    <text x="56" y="390" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Learning &amp; Building Everyday</text>
+    
+
+    <rect x="310" y="332" width="250" height="92" rx="10" fill="#11162a" stroke="#262c47" stroke-width="1.5"/>
+    <text x="326" y="364" font-family="Segoe UI, Arial, sans-serif" font-size="17">🎯</text>
+    <text x="356" y="364" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ff5f56">Goal</text>
+    <text x="326" y="390" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Become an AI Engineer</text>
+    
+
+  <rect x="40" y="440" width="4" height="60" fill="url(#borderGrad2)"/>
+  <text x="60" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-style="italic" fill="#d6d6e8">"Code is like humor. When you have to explain it,</text>
+  <text x="60" y="484" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-style="italic" fill="#d6d6e8">it's bad." <tspan fill="#8b8bb0">&#8212; Cory House</tspan></text>
+</svg>
