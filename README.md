@@ -115,13 +115,12 @@ AI-powered fraud detection system using ML models to identify and prevent suspic
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayaksatpathi&show_icons=true&theme=radical&bg_color=0d1117&title_color=00F5FF&icon_color=B026FF&text_color=c9d1d9&border_color=302b63&hide_border=false" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=sayaksatpathi&show_icons=true&theme=radical&bg_color=0d1117&title_color=00F5FF&icon_color=B026FF&text_color=c9d1d9&border_color=302b63&hide_border=false" width="48%" />
 <img src="https://streak-stats.demolab.com?user=sayaksatpathi&theme=radical&background=0d1117&border=302b63&ring=B026FF&fire=FFD700&currStreakLabel=00F5FF" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayaksatpathi&layout=compact&theme=radical&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&border_color=302b63&hide_border=false" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=sayaksatpathi&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sayaksatpathi&layout=compact&theme=radical&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&border_color=302b63&hide_border=false" width="95%" />
 
 <br/><br/>
 
